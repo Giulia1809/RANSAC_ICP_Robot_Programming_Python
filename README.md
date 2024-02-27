@@ -26,3 +26,7 @@ https://peringlab.org/lmdata/
 ## Coming soon! 
 
 The C++ version! 
+
+### Aknowledgements 
+
+*The coding of this work was accompanied by Rammstein's 'Mutter' and Slipknot's 'All Hope is Gone' albums.*
