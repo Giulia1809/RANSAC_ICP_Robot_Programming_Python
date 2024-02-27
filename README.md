@@ -14,8 +14,8 @@ https://sites.google.com/diag.uniroma1.it/robot-programming-2023-24/home
 ## Ownership: 
 
 The codes have been entirely developed by me. 
-If you choose to use this software, please refer to the attach license for reference. 
-Please refer to this repo for citation. 
+If you choose to use this software, please refer to the attached license for usage. 
+Please cite this repo. 
 
 I don't hold any ownership on the dataset, to which I provide the link - below.
 
